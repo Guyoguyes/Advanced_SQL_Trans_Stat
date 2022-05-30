@@ -1,0 +1,2 @@
+CREATE DATABASE nbc_db
+GO
